@@ -54,3 +54,7 @@ Also `Processing` allows to take preview data with standing wave effect by phase
 [appstore-image]: https://github.com/kreshikhin/scituner/blob/master/Docs/appstore.png
 [screenshots-image]: https://github.com/kreshikhin/scituner/blob/master/Docs/screenshots_small.png
 [uml-image]: https://github.com/kreshikhin/scituner/blob/master/Docs/uml.png
+
+# contact:
+E-Mail:kevin1870@gmail.com
+Tel:+86 6625548023
